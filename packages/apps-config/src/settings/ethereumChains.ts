@@ -36,5 +36,6 @@ export const ethereumChains = [
   'masverse',
   'laos',
   'klaos',
-  'muse'
+  'muse',
+  'planck-chain-node'
 ];
